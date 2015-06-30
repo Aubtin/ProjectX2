@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ProjectXDialog&apos; to &apos;ProjectXPOST&apos;&#x0D;&#x0A;- Original project: &apos;ProjectXFrame&apos;&#x0D;&#x0A;- Original element: &apos;ProjectXDialog&apos;&#x0D;&#x0A;- Renamed element: &apos;ProjectXPOST&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ProjectXDialog&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ProjectXDialog.java[ProjectXDialog" matchStrategy="1" name="ProjectXPOST" qualified="false" references="true" similarDeclarations="false" stamp="1435704692467" textual="false" version="1.0"/>
+</session>
